@@ -1,2 +1,2 @@
 # GAN-Family
-Implementation for DC-GAN,LS-GAN and Bi-GAN
+>Implementation of DC-GAN,LS-GAN and Bi-GAN using pytorch for Celeb,Dsprite Dataset
